@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.outline {
+  border: 1px solid black;
+}
+
+#title {
+  text-align: center;
+  margin-top: 20px;
+  height: 100px;
+}
+
+#instructions {
+  text-align: center;
+  margin-top: 20px;
+  height: 100px;
+}
+
+#score {
+  text-align: center;
+  margin-top: 20px;
+  height: 100px;
+}
+
+#gems {
+  text-align: center;
+  margin-top: 20px;
+  height: 100px;
+}
